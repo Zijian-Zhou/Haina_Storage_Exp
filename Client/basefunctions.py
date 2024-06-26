@@ -826,7 +826,7 @@ class build_block:
         return create_string_buffer(str.encode(), len(str))
 
     def prepare(self, path):
-        path = self.trans2ct(path)
+        path = self.trans2ct(path, 10)
         self.dll.init(path)
 
     def decryption(self):
