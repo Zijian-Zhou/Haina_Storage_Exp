@@ -5,9 +5,9 @@
 
 ---
  
-This repository is the experimental codes for the Haina storage paper. The engineering prototype is in the repository [HNS](https://github.com/Zijian-Zhou/Haina_Storage).
+This repository is the experimental codes for the Haina storage paper. The engineering prototype is in the repository [HNS](https://anonymous.4open.science/r/Haina_Storage-627C).
  
-本仓库为海纳存储论文实验代码，工程原型系统请参见[HNS](https://github.com/Zijian-Zhou/Haina_Storage)。
+本仓库为海纳存储论文实验代码，工程原型系统请参见 [HNS](https://anonymous.4open.science/r/Haina_Storage-627C)。
 
 ---
 
